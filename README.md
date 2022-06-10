@@ -1,2 +1,2 @@
 # JavaCoreLabs
-Here are all the labs completed during my java core certificate on coursera
+All labs completed during the java core certificate on coursera
